@@ -1,7 +1,7 @@
 # portofolio-profile
 
 # Dede Fadillah - Portfolio  
-Hi, I'm Dede Fadillah, a Web Developer focusing on PHP Laravel.  
+Hi, I'm Dede Fadillah, a Web Developer focusing on PHP Laravel and CI.  
 
 ## Projects  
 1. News Portal Website - PHP Native + MySQL - GitHub: https://github.com/DedeGit/portal
